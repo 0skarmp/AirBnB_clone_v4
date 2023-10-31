@@ -159,8 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Oscar Morales -[Github](https://github.com/0skarmp) / [Twitter](https://twitter.com/yuan22rm)
-Juan Ramirez -[Github](https://github.com/juanRCoder) / [Twitter](https://twitter.com/omoralespj)
+Oscar Morales -[Github](https://github.com/0skarmp) / [Twitter](https://twitter.com/ omoralespj)
+Juan Ramirez -[Github](https://github.com/juanRCoder) / [Twitter](https://twitter.com/yuan22rm)
 
 Second part of Airbnb: Joann Vuong
 fouth part of the Airbnb: Oscar Morales & Juan Ramirez
